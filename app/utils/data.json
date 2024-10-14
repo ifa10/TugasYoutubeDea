@@ -1,0 +1,22 @@
+{
+    "karyawan": [
+      {
+        "id": 1,
+        "nama": "Karyawan 1",
+        "jabatan": "Manajer",
+        "gaji": 10000000
+      },
+      {
+        "id": 2,
+        "nama": "Karyawan 2",
+        "jabatan": "Staf",
+        "gaji": 5000000
+      },
+      {
+        "id": 3,
+        "nama": "Karyawan 3",
+        "jabatan": "Direktur",
+        "gaji": 20000000
+      }
+    ]
+  }
